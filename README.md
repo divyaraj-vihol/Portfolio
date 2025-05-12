@@ -1,3 +1,2 @@
 # My Portfolio
-
-https://portfolio-divyaraj-vihols-projects.vercel.app/
+portfolio-glgx-git-master-divyaraj-vihols-projects.vercel.app
